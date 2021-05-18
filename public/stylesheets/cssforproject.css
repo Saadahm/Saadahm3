@@ -1,0 +1,14 @@
+body{
+    height: 50px;
+    width: 100px;
+    background-color: white;
+    color: rgb(184, 80, 11);
+    font-size: 10pt;
+    box-shadow: rgb(12, 139, 0) 10px 10px;
+}
+.Buttons{
+   color : red; 
+}
+body :hover {
+    transform: translate(0px,50 px)
+}
